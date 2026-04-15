@@ -1,0 +1,12 @@
+﻿  Building 'WindowsDriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  hde64.cpp
+  visor.cpp
+  main.cpp
+  Generating Code...
+  WindowsDriver.vcxproj -> C:\Users\belmi\Downloads\WindowsDriver_[unknowncheats.me]_\x64\Debug\WindowsDriver.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\belmi\Downloads\WindowsDriver_[unknowncheats.me]_\x64\Debug\WindowsDriver.sys
+  
+  Driver is 'Universal'.
+  Inf2Cat task was skipped as there were no inf files to process
+  
